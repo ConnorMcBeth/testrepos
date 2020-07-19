@@ -1,2 +1,2 @@
-# testrepos
-test repository
+#plan
+to make an outcome and document it.
